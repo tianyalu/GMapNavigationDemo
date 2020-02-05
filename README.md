@@ -6,4 +6,4 @@
 * 动态权限申请
 
 示例如下图：
-![image](https://github.com/tianyalu/GmapNavigationDemo/raw/master/show/show.png)
+![image](https://github.com/tianyalu/GMapNavigationDemo/raw/master/show/show.png)
